@@ -1,0 +1,13 @@
+name: exam_clash_checking
+title: exam_clash_checking
+username:
+account: timothyliew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6044740
+bundleId: 5783707
+url: https://timothyliew.shinyapps.io/exam_clash_checking/
+when: 1649596634.78206
+lastSyncTime: 1649596634.78206
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,14 @@
+name: exam_clash
+title: exam_clash
+username:
+account: timothyliew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6044762
+bundleId: 5776740
+url: https://timothyliew.shinyapps.io/exam_clash/
+when: 1649389220.46479
+lastSyncTime: 1649389220.46479
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: exam_namelist.xls
